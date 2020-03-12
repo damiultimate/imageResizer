@@ -1,4 +1,4 @@
-#!C:\Users\ORE\AppData\Local\Programs\Python\Python38-32\python.exe
+#!C:\Users\User\AppData\Local\Programs\Python\Python38-32\python.exe
 import os, cgi, cgitb
 cgitb.enable()
 
